@@ -7,12 +7,12 @@ The Python Grading System is a user-friendly program designed to streamline the 
 ## Features
 
 - **Input Student Scores:** Students can input scores for different assignments or exams.
-- **Calculate Grades:** The program calculates grades based on predefined criteria, such as "Progress", "Progress Module", "Do not Progress" and "Exclude"
-- **Store Data ** It stores the input student scores in a text file.
+- **Calculate Grades:** The program calculates grades based on predefined criteria, such as "Progress", "Progress Module", "Do not Progress", and "Exclude".
+- **Store Data:** It stores the input student scores in a text file.
 
-## Created by 
+## Created by
 
-- **Sathruwan Hansith ** It stores the input student scores in a text file.
+- **Sathruwan Hansith**
 
 ## Technologies Used
 
