@@ -4,6 +4,10 @@
 
 The Python Grading System is a user-friendly program designed to streamline the grading process for instructors and enhance the learning experience for students. Developed as part of coursework requirements by IIT for their 1st-year, 1st-semester curriculum, this Python project empowers students to input their scores effortlessly. Utilizing predefined criteria, the system swiftly generates accurate grades, providing valuable feedback to both students and instructors. With its intuitive interface and automated functionality, the Python Grading System promotes efficiency and transparency in the evaluation process, ultimately fostering a conducive environment for academic growth.
 
+## Video Demonstration
+
+https://github.com/SathruwanCooray/University_Grading_System/assets/150252729/8d573e57-702d-455b-a2cb-9776f21d83e7
+
 ## Features
 
 - **Input Student Scores:** Students can input scores for different assignments or exams.
